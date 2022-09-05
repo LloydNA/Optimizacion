@@ -17,10 +17,10 @@ function BAL()
     needPlot = true
 
     iterations = 300
-    randGenerator = Uniform(-4.0,4.0)
+    randGenerator = Normal(0,1.0)
     ranges = range(-4,stop=4,length=100)
-    X = [0.0,0.0]
     bestX = [rand(Uniform(4.0,6.4)),rand(Uniform(4.0,6.4))]
+    X = bestX
     bestZ = f(bestX[1],bestX[2])
 
     if needPlot
@@ -28,7 +28,16 @@ function BAL()
     end
 
     for i in 1:iterations
-        X = [rand(randGenerator),rand(randGenerator)]
+        X[1] = bestX[1] + rand(randGenerator)
+        X[2] = bestX[2] + rand(randGenerator)
+        
+        while X[1] < -4 || X[1] > 4
+            X[1] = bestX[1] + rand(randGenerator)
+        end
+
+        while X[2] < -4 || X[2] > 4
+            X[2] = bestX[2] + rand(randGenerator)
+        end
 
         if f(X[1],X[2]) < bestZ
             bestX = X
