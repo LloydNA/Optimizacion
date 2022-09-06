@@ -45,7 +45,7 @@ function BALM()
         end
 
         if f(X[1],X[2]) < bestZ
-            bestX = X
+            bestX = copy(X)
 
             B[1] = 0.2*B[1] + 0.4*randHolder[1]
             B[2] = 0.2*B[2] + 0.4*randHolder[2]
@@ -67,7 +67,7 @@ function BALM()
             end
 
             if f(X[1],X[2]) < bestZ
-                bestX = X
+                bestX = copy(X)
 
                 B[1] -= 0.4*randHolder[1]
                 B[2] -= 0.4*randHolder[2]
