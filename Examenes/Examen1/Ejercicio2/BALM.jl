@@ -14,7 +14,7 @@ function graph(initialize, ranges, X)
 end
 
 function BALM()
-    needPlot = false
+    needPlot = true
 
     iterations = 10000
     randGenerator = Normal(0,60)
