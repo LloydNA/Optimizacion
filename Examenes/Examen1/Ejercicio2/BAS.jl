@@ -14,7 +14,7 @@ function graph(initialize, ranges, X)
 end
 
 function BAS()
-    needPlot = false
+    needPlot = true
 
     iterations = 10000
     randGenerator = Uniform(-500.0,500.0)
