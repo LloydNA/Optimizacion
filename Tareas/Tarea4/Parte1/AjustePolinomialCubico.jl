@@ -1,30 +1,29 @@
 using Calculus
-using GLMakie
+using Plots
 
 f(x) = sin(x)
 
-image = lines(range(0,10,length=100),f, color = :blue)
-pointa = scatter!([0],[0],color="red")
-pointb = scatter!([0],[0],color="red")
+function graph(a,b,alpha)
+    anim = @animate for i in eachindex(a)
+        plot(f,0,2*π,label="f(x)")
+        scatter!([a[i]],[f(a[i])],color="red",label="a")
+        scatter!([b[i]],[f(b[i])],color="blue",label="b")
+        scatter!([alpha[i]],[f(alpha[i])],color="green",label="xbar")
+    end
 
-function graph(a,b)
-    delete!(image.axis, pointa)
-    delete!(image.axis, pointb)
-
-    global pointa = scatter!([a],[f(a)],color="red")
-    global pointb = scatter!([b],[f(b)],color="red")
-
-    sleep(0.5)
-    display(image)
+    gif(anim, "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte1/GIFS/AjustePolinomialCubico.gif", fps = 5)
 end
 
 function Cubico()
-    a = π
-    b = 6
+    a::Float64 = π
+    b::Float64 = 6
     error = 0.0001
     needGraph=true
+    A = [copy(a)]
+    B = [copy(b)]
 
     alpha = (a+b)/2
+    ALPHA = [copy(alpha)]
 
     while derivative(f,a)*derivative(f,alpha) >= 0
         a = copy(alpha)
@@ -38,10 +37,6 @@ function Cubico()
         z = (3*(f(a)-f(b)))/(b-a) + derivative(f,a) + derivative(f,b)
         w = (b-a)/abs(b-a) + √(z^2-derivative(f,a)*derivative(f,b))
         u = (derivative(f,b)+w-z)/(derivative(f,b)-derivative(f,a)+2*w)
-
-        if needGraph
-            graph(a,b)
-        end
 
         xbar = if u < 0
             copy(b)
@@ -61,8 +56,14 @@ function Cubico()
             a = copy(xbar)
         end
 
+        append!(A,a)
+        append!(B,b)
+        append!(ALPHA,xbar)
     end
 
+    if needGraph
+        graph(B,A,ALPHA)
+    end
     print("x = ",xbar," f(x) = ",f(xbar))
 end
 
