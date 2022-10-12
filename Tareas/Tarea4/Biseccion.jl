@@ -8,14 +8,9 @@ pointa = scatter!([0],[0],color="red")
 pointb = scatter!([0],[0],color="red")
 
 function graph(a,b)
-    delete!(image.axis, pointa)
-    delete!(image.axis, pointb)
+    anim = @animate for i in 1:a.
 
-    global pointa = scatter!([a],[f(a)],color="red")
-    global pointb = scatter!([b],[f(b)],color="red")
-
-    sleep(0.5)
-    display(image)
+    gif(anim, "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Biseccion.gif", fps = 24)
 end
 
 function BSC()
@@ -23,6 +18,8 @@ function BSC()
     b = 2π
     error = 0.001
     needGraph = true
+    A = []
+    B = []
 
     while abs(a-b)>error
         alpha = (a+b)/2
