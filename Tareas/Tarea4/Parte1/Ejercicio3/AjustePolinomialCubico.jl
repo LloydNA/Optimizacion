@@ -1,23 +1,35 @@
 using Calculus
 using Plots
+using Statistics
 
-f(x) = sin(x)
+f(x) = 2*(x-3)^2+exp(0.5*x^2) #0-100
+
+BetterX::Float64 = 0
+BetterFx::Float64 = Inf64
+WorstX::Float64 = 0
+WorstFx::Float64 = -Inf64
+
+BetterA = []
+BetterB = []
+BetterALPHA = []
+
+TotalX = []
 
 function graph(a,b,alpha)
     anim = @animate for i in eachindex(a)
-        plot(f,0,2*π,label="f(x)")
+        plot(f,0,100,label="f(x)")
         scatter!([a[i]],[f(a[i])],color="red",label="a")
         scatter!([b[i]],[f(b[i])],color="blue",label="b")
         scatter!([alpha[i]],[f(alpha[i])],color="green",label="xbar")
     end
 
-    gif(anim, "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte1/GIFS/AjustePolinomialCubico.gif", fps = 5)
+    gif(anim, "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte1/Ejercicio3/GIFS/AjustePolinomialCubico.gif", fps = 5)
 end
 
 function Cubico()
-    a::Float64 = π
-    b::Float64 = 6
-    error = 0.0001
+    a::Float64 = 0
+    b::Float64 = 20
+    error = 0.05
     needGraph=true
     A = [copy(a)]
     B = [copy(b)]
@@ -61,10 +73,26 @@ function Cubico()
         append!(ALPHA,xbar)
     end
 
-    if needGraph
-        graph(B,A,ALPHA)
+    append!(TotalX,xbar)
+
+    if f(xbar) < BetterFx
+        global BetterFx = f(xbar)
+        global BetterX = xbar
+        global BetterB = B
+        global BetterA = A
+        global BetterALPHA = ALPHA
     end
-    print("x = ",xbar," f(x) = ",f(xbar))
+
+    if f(xbar) > WorstFx
+        global WorstFx = f(xbar)
+        global WorstX = xbar
+    end
 end
 
-Cubico()
+for i in 1:1000
+    Cubico()
+end
+
+graph(BetterA, BetterB, BetterALPHA)
+
+print("& ",round(mean(TotalX); digits=5)," & ", round(f(mean(TotalX)); digits=5), " & ", round(BetterX; digits=5), " & ", round(BetterFx; digits=5), " & ", round(WorstX; digits=5), " & ", round(WorstFx, digits=5))
