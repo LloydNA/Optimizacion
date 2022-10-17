@@ -164,28 +164,143 @@
         \pagebreak
 
         \section{Analisis de resultados}
+        El objetivo de este pequeño analisis es el de demostrar lo que los distintos algoritmos de optimizacion son capaces de hacer,
+        por lo cual, en ciertas funciones, fue necesario el uso de un pequeño "empujon", con el fin de que un determinado algoritmo
+        no entrara en un ciclo infinito de soluciones.
+        En general, los algoritmos de la Secante y Ajuste Polinomial Cubico, fueron los que requirieron de apoyo para mostrar un resultado
+        y que su participacion no fuera nula, ayuda que se vio reflejada en un ajuste de limites (a y b) en un rango menor y con un valle obvio;
+        lo anterior se debe a la enorme dependencia que tienen estos algoritmos a trabajar sobre un "valle", y al hecho de que tienden a dividir
+        su espacio de busqueda por la mitad, lo que provoco que en algunas funciones (principalmente en la cuarta), se descartaran todos aquellos
+        puntos con derivada negativa, generando, de esta forma, un ciclo sin fin.
+        Entre los metodos que mas destacaron se encuentran los algoritmos del Gradiente y Newton Raphson, siendo los que presentaron una variacion
+        casi nula (al menos a la visibilidad de 5 decimales) en cuanto a su rendimiento se refiere (promedio, peor, mejor).
 
     \chapter{Funciones multivariables}
         \paragraph{Introduccion}
-        Introduccion aqui
+        De manera similar al apartado anterior, a continuacion se presentan 5 funciones que serviran como punto de comparacion para 2 algoritmos de optimizacion sin restricciones.
+        Es importante mencionar que, con el fin de mantener una condicion y/o cantidad de iteraciones justa, se ha planteado al numero "1000"
+        como parametro de "paro" en todas las funciones, es decir, en aquellas funciones que dependan de un determinado numero de iteraciones,
+        estas sumaran 100, mientras que, en las que dependan de un valor concreto de "error", este mismo sera ubicado de tal forma que sus cantidades
+        de iteraciones sean lo mas cercanas a 1000
+        Por ultimo, cabe destacar que se realizaran 1000 ejecuciones independientes de cada algoritmo, con el fin de conocer la media de sus valores
+        asi como su mejor y peor desempeño.
+        \pagebreak
 
         \section{Primera Funcion}
+            \begin{equation*}
+                f(x,y)=100(y-x^2)^2+(1-x)^2
+            \end{equation*}
+
+            \begin{figure}[H]
+                \includegraphics[width=\linewidth]{/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio1/Funcion.png}
+                \caption{Grafica de la funcion}
+                \label{fig:fun15}
+            \end{figure}
+
             \subsection{Tabla de resultados}
-            \subsection{Analisis de resultados}
+            \begin{tabular}{l|c|c|c|c|c|c}
+                & (x,y) Promedio & f(x,y) Promedio & Mejor (x,y) & Mejor f(x,y) & Peor (x,y) & Peor f(x,y)\\
+                \hline
+                Gradiente & (0.95967, 0.92079) & 0.00163 & (0.95967, 0.92079) & 0.00163 & (0.95967, 0.92079) & 0.00163\\
+                \hline
+                Newton Raphson & (0.99931, 0.99861) & 0.0 & (0.99931, 0.99861) & 0.0 & (0.99931, 0.99861) & 0.0\\
+                \hline
+            \end{tabular}
+        \pagebreak
 
         \section{Segunda Funcion}
-            \subsection{Tabla de resultados}
-            \subsection{Analisis de resultados}
+            \begin{equation*}
+                f(x,y)=4x^2-4xy+3y^2+x
+            \end{equation*}
 
-        \section{Tercera Funcion}
+            \begin{figure}[H]
+                \includegraphics[width=\linewidth]{/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio2/Funcion.png}
+                \caption{Grafica de la funcion}
+                \label{fig:fun15}
+            \end{figure}
+
             \subsection{Tabla de resultados}
-            \subsection{Analisis de resultados}
+            \begin{tabular}{l|c|c|c|c|c|c}
+                & (x,y) Promedio & f(x,y) Promedio & Mejor (x,y) & Mejor f(x,y) & Peor (x,y) & Peor f(x,y)\\
+                \hline
+                Gradiente & (-0.1875, -0.125) & -0.09375 & (-0.1875, -0.125) & -0.09375 & (-0.1875, -0.125) & -0.09375\\
+                \hline
+                Newton Raphson & (-0.18751, -0.125) & -0.09375 & (-0.18751, -0.125) & -0.09375 & (-0.18751, -0.125) & -0.09375\\
+                \hline
+            \end{tabular}
+        \pagebreak
+            
+        \section{Tercera Funcion}
+            \begin{equation*}
+                f(x,y)=\frac{1}{10}(12+x^2+\frac{1+x^2}{x^2}+\frac{100+x^2y^2}{(xy)^4})
+            \end{equation*}
+
+            \begin{figure}[H]
+                \includegraphics[width=\linewidth]{/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio3/Funcion.png}
+                \caption{Grafica de la funcion}
+                \label{fig:fun15}
+            \end{figure}
+
+            \subsection{Tabla de resultados}
+            \begin{tabular}{l|c|c|c|c|c|c}
+                & (x,y) Promedio & f(x,y) Promedio & Mejor (x,y) & Mejor f(x,y) & Peor (x,y) & Peor f(x,y)\\
+                \hline
+                Gradiente & (1.04608, 5.75717) & 1.51117 & (1.04608, 5.75717) & 1.51117 & (1.04608, 5.75717) & 1.51117\\
+                \hline
+                Newton Raphson & (0.97361, 12.5125) & 1.50141 & (0.97361, 12.5125) & 1.50141 & (0.97361, 12.5125) & 1.50141\\
+                \hline
+            \end{tabular}
+        \pagebreak 
 
         \section{Cuarta Funcion}
+            \begin{equation*}
+                f(x,y,z)=x^3+y^2+z
+            \end{equation*}
+
+            \begin{figure}[H]
+                \includegraphics[width=\linewidth]{/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio4/Funcion.png}
+                \caption{Curvas de nivel respecto a 0 de la funcion}
+                \label{fig:fun15}
+            \end{figure}
+
             \subsection{Tabla de resultados}
-            \subsection{Analisis de resultados}
+            \begin{tabular}{l|c|c|c|c|c|c}
+                & (x,y,z) Promedio & f(x,y,z) Promedio & Mejor (x,y,z) & Mejor f(x,y,z) & Peor (x,y,z) & Peor f(x,y,z)\\
+                \hline
+                Gradiente & (0.0033, -0.0, -99.1) & -99.1 & (0.0033, -0.0, -99.1) & -99.1 & (0.0033, -0.0, -99.1) & -99.1\\
+                \hline
+                Newton Raphson & - & - & - & - & - & - \\
+                \hline
+            \end{tabular}
+        \pagebreak
 
         \section{Quinta Funcion}
+            \begin{equation*}
+                f(x,y,z)=\frac{1}{3}\sum_{i=1}^{3}(x_{i}^4-16x_{i}^2+5x_{i})
+            \end{equation*}
+
+            \begin{figure}[H]
+                \includegraphics[width=\linewidth]{/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio5/Funcion.png}
+                \caption{Grafica de la funcion}
+                \label{fig:fun15}
+            \end{figure}
+
             \subsection{Tabla de resultados}
-            \subsection{Analisis de resultados} 
+            \begin{tabular}{l|c|c|c|c|c|c}
+                & (x,y) Promedio & f(x,y) Promedio & Mejor (x,y) & Mejor f(x,y) & Peor (x,y) & Peor f(x,y)\\
+                \hline
+                Gradiente & (-0.00799, -0.00799, -0.00799) & -0.04098 & (-0.00799, -0.00799, -0.00799) & -0.04098 & (-0.00799, -0.00799, -0.00799) & -0.04098\\
+                \hline
+                Newton Raphson & - & - & - & - & - & - \\
+                \hline
+            \end{tabular}
+        \pagebreak
+
+        \section{Analisis de resultados}
+        En conclusion, el metodo de Newton Raphson destaca por su excelencia al encontrar un minimo sin alejarse demasiado del mismo, lamentablemente
+        lo anterior solo aplica a 3 dimensiones, puesto que, para 4, se vuelve bastante complejo calcular el inverso tanto del Hessiano como del Gradiente
+        de la funcion.
+        Por otro lado, el metodo del gradiente tuvo severas dificultades en funciones con una aceleracion descomunal, siendo necesaria una taza de aprendizaje
+        bajisima para evitar que la funcion se alejara muchisimo debido a la excesiva velocidad de la misma.
+
 \end{document}

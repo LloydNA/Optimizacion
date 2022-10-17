@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.12)  16 OCT 2022 01:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.12)  16 OCT 2022 20:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -116,7 +116,23 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box54
-) (./Tarea4_SandovalOrtizNestorAdrian.aux)
+) (./Tarea4_SandovalOrtizNestorAdrian.aux
+
+LaTeX Warning: Label `fig:fun15' multiply defined.
+
+
+LaTeX Warning: Label `fig:fun15' multiply defined.
+
+
+LaTeX Warning: Label `fig:fun15' multiply defined.
+
+
+LaTeX Warning: Label `fig:fun15' multiply defined.
+
+
+LaTeX Warning: Label `fig:fun15' multiply defined.
+
+)
 \openout1 = `Tarea4_SandovalOrtizNestorAdrian.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -224,20 +240,79 @@ Overfull \hbox (114.19545pt too wide) in paragraph at lines 150--165
 Chapter 2.
 [8
 
-] (./Tarea4_SandovalOrtizNestorAdrian.aux) ) 
+]
+</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio1/Funcion.png, id=44, 602.25pt x 401.5pt>
+File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio1/Funcion.png Graphic file (type png)
+<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio1/Funcion.png>
+Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio1/Funcion.png  used on input line 195.
+(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
+
+Overfull \hbox (222.05695pt too wide) in paragraph at lines 201--210
+[]
+ []
+
+[9 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio1/Funcion.png>]
+</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio2/Funcion.png, id=48, 602.25pt x 401.5pt>
+File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio2/Funcion.png Graphic file (type png)
+<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio2/Funcion.png>
+Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio2/Funcion.png  used on input line 217.
+(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
+
+Overfull \hbox (212.05682pt too wide) in paragraph at lines 223--232
+[]
+ []
+
+[10 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio2/Funcion.png>]
+</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio3/Funcion.png, id=52, 602.25pt x 401.5pt>
+File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio3/Funcion.png Graphic file (type png)
+<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio3/Funcion.png>
+Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio3/Funcion.png  used on input line 239.
+(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
+
+Overfull \hbox (222.05695pt too wide) in paragraph at lines 245--254
+[]
+ []
+
+[11 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio3/Funcion.png>]
+</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio4/Funcion.png, id=56, 602.25pt x 401.5pt>
+File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio4/Funcion.png Graphic file (type png)
+<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio4/Funcion.png>
+Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio4/Funcion.png  used on input line 261.
+(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
+
+Overfull \hbox (257.89018pt too wide) in paragraph at lines 267--276
+[]
+ []
+
+[12 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio4/Funcion.png>]
+</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio5/Funcion.png, id=61, 602.25pt x 401.5pt>
+File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio5/Funcion.png Graphic file (type png)
+<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio5/Funcion.png>
+Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio5/Funcion.png  used on input line 283.
+(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
+
+Overfull \hbox (368.72388pt too wide) in paragraph at lines 289--298
+[]
+ []
+
+[13 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Tareas/Tarea4/Parte2/Ejercicio5/Funcion.png>] [14] (./Tarea4_SandovalOrtizNestorAdrian.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2645 strings out of 478268
- 42444 string characters out of 5846346
- 329500 words of memory out of 5000000
- 20842 multiletter control sequences out of 15000+600000
+ 2680 strings out of 478268
+ 46354 string characters out of 5846346
+ 329542 words of memory out of 5000000
+ 20872 multiletter control sequences out of 15000+600000
  478035 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,62p,407b,224s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Tarea4_SandovalOrtizNestorAdrian.pdf (9 pages, 163431 bytes).
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Tarea4_SandovalOrtizNestorAdrian.pdf (15 pages, 471100 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 113 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
