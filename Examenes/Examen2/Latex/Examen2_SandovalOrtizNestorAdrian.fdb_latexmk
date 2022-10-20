@@ -1,11 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1666243327 "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex" "Examen2_SandovalOrtizNestorAdrian.pdf" "Examen2_SandovalOrtizNestorAdrian" 1666243327
-  "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png" 1666235752 43321 f44a7fab13449a1f2aa8d1110882fec0 ""
-  "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png" 1666237069 9507 53a4edc34b96f41bbcb1e7ec59a248cd ""
-  "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png" 1666238618 15953 6847484f3e62c1766785857af4cfabe6 ""
-  "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png" 1666240690 52157 274e159ffd65f67a45cd7ede4bb2c12d ""
-  "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png" 1666241081 47865 5accfe27ecd5a9cfcec712b6c725e23f ""
-  "/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex" 1666243327 6849 5a7fb00a9849c0cb53df63e2dea67b4b ""
+["pdflatex"] 1666289467 "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex" "Examen2_SandovalOrtizNestorAdrian.pdf" "Examen2_SandovalOrtizNestorAdrian" 1666289468
+  "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png" 1666274419 43321 f44a7fab13449a1f2aa8d1110882fec0 ""
+  "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png" 1666274419 9507 53a4edc34b96f41bbcb1e7ec59a248cd ""
+  "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png" 1666274419 15953 6847484f3e62c1766785857af4cfabe6 ""
+  "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png" 1666274419 52157 274e159ffd65f67a45cd7ede4bb2c12d ""
+  "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png" 1666274419 47865 5accfe27ecd5a9cfcec712b6c725e23f ""
+  "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex" 1666289467 10297 3c121600bdb48c7e850bc4aeaef5b112 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -60,10 +60,10 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
-  "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1665619581 2826448 4749abe8e85e102e313d15ea37b38996 ""
+  "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1666281467 2826447 0b69a13732a24d851ef3cfd7d7292584 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Examen2_SandovalOrtizNestorAdrian.aux" 1666243327 3030 9edbe3765b5d9ca8c814025d6f1f3288 "pdflatex"
-  "Examen2_SandovalOrtizNestorAdrian.tex" 1666243327 6849 5a7fb00a9849c0cb53df63e2dea67b4b ""
+  "Examen2_SandovalOrtizNestorAdrian.aux" 1666289468 3622 c07a0338922263c63451cc9cdab51f7d "pdflatex"
+  "Examen2_SandovalOrtizNestorAdrian.tex" 1666289467 10297 3c121600bdb48c7e850bc4aeaef5b112 ""
   (generated)
   "Examen2_SandovalOrtizNestorAdrian.aux"
   "Examen2_SandovalOrtizNestorAdrian.log"

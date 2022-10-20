@@ -3,9 +3,7 @@ using Plots
 using Statistics
 using LazySets
 
-f(x) = x^2+x^4
-fp(x) = 2*x+4*x^3
-
+f(x) = x^2
 
 BetterX::Float64 = 0
 BetterFx::Float64 = Inf64
@@ -20,24 +18,13 @@ TotalX = []
 
 function graph(a,b,alpha)
     anim = @animate for i in eachindex(a)
-        plot(f,-4,4,label="f(x)")
+        plot(f,-10,10,label="f(x)")
         scatter!([a[i]],[f(a[i])],color="red",label="a")
         scatter!([b[i]],[f(b[i])],color="blue",label="b")
         scatter!([alpha[i]],[f(alpha[i])],color="green",label="alpha")
     end
 
-    gif(anim, "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/GIFS/Secante.gif", fps = 1)
-end
-
-function graphD(a)
-    anim = @animate for i in eachindex(a)
-        plot(fp,-4.0,4.0,label="f'(x)")
-        if i<length(a)
-            plot!(LineSegment([a[i],fp(a[i])],[a[i+1],0.0]),color="red", label="Tangente")
-        end
-    end
-
-    gif(anim, "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/GIFS/SecanteDerivada.gif", fps = 1)
+    gif(anim, "/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/GIFS/Secante_2.gif", fps = 1)
 end
 
 function Secante()
@@ -96,6 +83,5 @@ for i in 1:1000
 end
 
 graph(BetterA, BetterB, BetterALPHA)
-graphD(BetterALPHA)
 
 print("& ",round(mean(TotalX); digits=5)," & ", round(f(mean(TotalX)); digits=5), " & ", round(BetterX; digits=5), " & ", round(BetterFx; digits=5), " & ", round(WorstX; digits=5), " & ", round(WorstFx, digits=5))

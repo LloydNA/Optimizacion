@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.12)  20 OCT 2022 00:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.20)  20 OCT 2022 13:11
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex"
-(/Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex
+**/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex
+(/Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
@@ -166,98 +166,329 @@ Chapter 1.
 [1
 
 ]
-</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png, id=14, 602.25pt x 401.5pt>
-File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png Graphic file (type png)
-<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png>
-Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png  used on input line 24.
+</Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png, id=14, 602.25pt x 401.5pt>
+File: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png Graphic file (type png)
+<use /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png>
+Package pdftex.def Info: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png  used on input line 27.
 (pdftex.def)             Requested size: 345.0pt x 230.00912pt.
 
-Overfull \hbox (144.36223pt too wide) in paragraph at lines 30--37
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\OT1/cmr/m/n/10 (x,y)
  []
 
-[2 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png>]
-</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png, id=20, 602.25pt x 401.5pt>
-File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png Graphic file (type png)
-<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png>
-Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png  used on input line 44.
-(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
 
-Overfull \hbox (89.001pt too wide) in paragraph at lines 50--57
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\OT1/cmr/m/n/10 f(x,y)
  []
 
-[3 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png>]
-</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png, id=24, 602.25pt x 401.5pt>
-File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png Graphic file (type png)
-<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png>
-Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png  used on input line 64.
-(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
 
-Overfull \hbox (82.22314pt too wide) in paragraph at lines 70--79
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\OT1/cmr/m/n/10 Mejor
  []
 
-[4 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png>]
-File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png Graphic file (type png)
-<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png>
-Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png  used on input line 86.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\OT1/cmr/m/n/10 Mejor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\OT1/cmr/m/n/10 Peor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]\OT1/cmr/m/n/10 Peor
+ []
+
+
+Overfull \hbox (69.99156pt too wide) in paragraph at lines 33--39
+[] 
+ []
+
+[2 </Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png>]
+</Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png, id=20, 602.25pt x 401.5pt>
+File: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png Graphic file (type png)
+<use /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png>
+Package pdftex.def Info: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png  used on input line 52.
 (pdftex.def)             Requested size: 345.0pt x 230.00912pt.
 
-Overfull \hbox (82.22314pt too wide) in paragraph at lines 92--101
-[]
+Overfull \hbox (89.001pt too wide) in paragraph at lines 58--64
+[] 
+ []
+
+[3 </Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png>]
+</Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png, id=24, 602.25pt x 401.5pt>
+File: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png Graphic file (type png)
+<use /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png>
+Package pdftex.def Info: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png  used on input line 76.
+(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
+
+Overfull \hbox (82.22314pt too wide) in paragraph at lines 82--90
+[] 
+ []
+
+[4 </Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png>]
+File: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png Graphic file (type png)
+<use /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png>
+Package pdftex.def Info: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png  used on input line 108.
+(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
+
+Overfull \hbox (82.22314pt too wide) in paragraph at lines 114--122
+[] 
  []
 
 [5]
-</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png, id=31, 602.25pt x 401.5pt>
-File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png Graphic file (type png)
-<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png>
-Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png  used on input line 108.
+</Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png, id=31, 602.25pt x 401.5pt>
+File: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png Graphic file (type png)
+<use /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png>
+Package pdftex.def Info: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png  used on input line 135.
 (pdftex.def)             Requested size: 345.0pt x 230.00912pt.
 
-Overfull \hbox (286.27922pt too wide) in paragraph at lines 114--125
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\OT1/cmr/m/n/10 (x,y)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\OT1/cmr/m/n/10 f(x,y)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\OT1/cmr/m/n/10 Mejor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\OT1/cmr/m/n/10 Mejor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\OT1/cmr/m/n/10 Peor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+[]\OT1/cmr/m/n/10 Peor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10 Newton
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\OT1/cmr/m/n/10 Raph-son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\OT1/cmr/m/n/10 (mul-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\OT1/cmr/m/n/10 di-men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10 (1.00001,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10 (1.00001,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10 (1.00001,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\OT1/cmr/m/n/10 Newton
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\OT1/cmr/m/n/10 Raph-son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\OT1/cmr/m/n/10 (uni-di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\OT1/cmr/m/n/10 men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\OT1/cmr/m/n/10 Secante
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/cmr/m/n/10 (uni-di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/cmr/m/n/10 men-
+ []
+
+
+Overfull \hbox (37.75386pt too wide) in paragraph at lines 141--151
+[] 
+ []
+
+[6 </Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png>] [7]
+</Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png, id=40, 602.25pt x 401.5pt>
+File: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png Graphic file (type png)
+<use /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png>
+Package pdftex.def Info: /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png  used on input line 164.
+(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\OT1/cmr/m/n/10 (x,y)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\OT1/cmr/m/n/10 f(x,y)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\OT1/cmr/m/n/10 Mejor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\OT1/cmr/m/n/10 Mejor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\OT1/cmr/m/n/10 Peor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+[]\OT1/cmr/m/n/10 Peor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+[]\OT1/cmr/m/n/10 (1.00001,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+[]\OT1/cmr/m/n/10 (1.00001,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+[]\OT1/cmr/m/n/10 (1.00001,
+ []
+
+
+Overfull \hbox (69.99156pt too wide) in paragraph at lines 170--177
 []
  []
 
-[6 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png>]
-</Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png, id=37, 602.25pt x 401.5pt>
-File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png Graphic file (type png)
-<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png>
-Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png  used on input line 132.
-(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
-
-Overfull \hbox (200.39012pt too wide) in paragraph at lines 138--145
-[]
- []
-
-[7 </Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png>]
-Overfull \hbox (124.57054pt too wide) detected at line 149
+[8 </Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png>]
+Overfull \hbox (124.57054pt too wide) detected at line 181
 \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ) = (100(\OML/cmm/m/it/10 X[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 ))[] + (1 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 )[] + 90(\OML/cmm/m/it/10 X[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 )[] + (1 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 )[] + 10\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1((\OML/cmm/m/it/10 X[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1)[] + (\OML/cmm/m/it/10 X[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1)[]) + 19\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8(\OML/cmm/m/it/10 X[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1)(\OML/cmm/m/it/10 X[] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 1)
  []
 
-File: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png Graphic file (type png)
-<use /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png>
-Package pdftex.def Info: /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png  used on input line 152.
-(pdftex.def)             Requested size: 345.0pt x 230.00912pt.
 
-Overfull \hbox (406.12682pt too wide) in paragraph at lines 158--165
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\OT1/cmr/m/n/10 f(X)
  []
 
-[8] (./Examen2_SandovalOrtizNestorAdrian.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\OT1/cmr/m/n/10 Mejor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\OT1/cmr/m/n/10 Mejor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\OT1/cmr/m/n/10 (0.99141,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/10 0.98288,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/10 1.00851,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\OT1/cmr/m/n/10 (0.99141,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/10 0.98288,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/10 1.00851,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\OT1/cmr/m/n/10 (0.99141,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/10 0.98288,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\OT1/cmr/m/n/10 1.00851,
+ []
+
+
+Overfull \hbox (38.2276pt too wide) in paragraph at lines 184--190
+[] 
+ []
+
+[9] (./Examen2_SandovalOrtizNestorAdrian.aux) ) 
 Here is how much of TeX's memory you used:
- 2647 strings out of 478268
- 42346 string characters out of 5846346
- 327529 words of memory out of 5000000
- 20844 multiletter control sequences out of 15000+600000
+ 2646 strings out of 478268
+ 42019 string characters out of 5846346
+ 331521 words of memory out of 5000000
+ 20843 multiletter control sequences out of 15000+600000
  478035 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,403b,224s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,8n,62p,377b,224s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Examen2_SandovalOrtizNestorAdrian.pdf (9 pages, 290701 bytes).
+Output written on Examen2_SandovalOrtizNestorAdrian.pdf (10 pages, 295665 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

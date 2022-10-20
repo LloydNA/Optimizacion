@@ -1,8 +1,8 @@
-PWD /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Latex
+PWD /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Latex
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Latex/Examen2_SandovalOrtizNestorAdrian.tex
 OUTPUT Examen2_SandovalOrtizNestorAdrian.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/report.cls
@@ -241,40 +241,36 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio1/funcion.png
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
-INPUT /Users/lloydna/Desktop/UP/5° Semestre/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio2/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio3/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio5/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
+INPUT /Users/lloydna/Projects/School/Optimizacion/Optimizacion/Examenes/Examen2/Ejercicio6/funcion.png
 INPUT Examen2_SandovalOrtizNestorAdrian.aux
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb

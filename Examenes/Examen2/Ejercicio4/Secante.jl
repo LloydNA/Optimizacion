@@ -5,6 +5,7 @@ using LazySets
 
 f(x) = x^2+x^4
 fp(x) = 2*x+4*x^3
+fd(x) = (f(x+0.01)-f(x))/0.01
 
 
 BetterX::Float64 = 0
@@ -60,7 +61,7 @@ function Secante()
 
     alpha = b - (derivative(f,b))/((derivative(f,b)-derivative(f,a))/(b-a))
 
-    while abs(derivative(f,alpha))>error && ite<10
+    while abs(derivative(f,alpha))>error && ite<8
         if derivative(f,alpha) > 0
             b = copy(alpha)
         else
